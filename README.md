@@ -1,6 +1,6 @@
 ## General information
 
-- **Public URL**: https://thinhngoo.github.io/CSC13114_IA02-Photo-gallery/
+- **Public URL**: https://csc13114-ia02-photo-gallery.onrender.com/
 - **Tech**: Vite + React + TypeScript
 
 ## Requirements
