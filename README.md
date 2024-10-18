@@ -1,6 +1,6 @@
 ## General information
 
-- **Public URL**: https://regal-cocada-ae9420.netlify.app
+- **Public URL**: https://thinhngoo.github.io/CSC13114_IA02-Photo-gallery/
 - **Tech**: Vite + React + TypeScript
 
 ## Requirements
